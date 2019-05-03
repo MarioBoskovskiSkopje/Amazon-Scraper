@@ -1,0 +1,46 @@
+.inputforsearching::placeholder {
+  color: white;
+}
+.inputforsearching {
+  background-color: #5b636c;
+  border: 0;
+  /* border-radius: 10%; */
+  padding: 5px;
+}
+.btnForSearching:active {
+  outline: none;
+}
+.spanDropDown {
+  cursor: pointer;
+  padding: 10px;
+  width: 100px;
+}
+
+.spanDropDown:hover {
+  background-color: #5a6879;
+  color: white;
+}
+.dot1 {
+  height: 10px;
+  width: 10px;
+  background-color: rgb(0, 196, 159);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 10px;
+}
+.dot2 {
+  height: 10px;
+  width: 10px;
+  background-color: rgb(0, 136, 254);
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+.dot3 {
+  height: 10px;
+  width: 10px;
+  background-color: purple;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
