@@ -1,0 +1,22 @@
+{
+  "content-type": "text/html; charset=UTF-8",
+  "transfer-encoding": "chunked",
+  "connection": "close",
+  "server": "Server",
+  "date": "Mon, 11 Feb 2019 10:42:10 GMT",
+  "strict-transport-security": "max-age=47474747; includeSubDomains; preload",
+  "x-amz-id-1": "P2CBYMEG3E62GZBM2WWF",
+  "p3p": "policyref=\"https://www.amazon.com/w3c/p3p.xml\",CP=\"CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC \"",
+  "vary": "Accept-Encoding,User-Agent,X-Amzn-CDN-Cache",
+  "content-encoding": "gzip",
+  "set-cookie": [
+    "x-wl-uid=1PFYSsfBYZn0mc3rS3y2j1Qq35J9nJcj4Et/nBnQox3ip3tWbJnbFrz95ayubJX4/rOT252jYz9U=; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT",
+    "session-id-time=2082787201l; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT",
+    "session-id=134-2530564-2821927; path=/; domain=.amazon.com; expires=Tue, 01-Jan-2036 08:00:01 GMT"
+  ],
+  "x-amz-rid": "P2CBYMEG3E62GZBM2WWF",
+  "x-frame-options": "SAMEORIGIN",
+  "x-cache": "Miss from cloudfront",
+  "via": "1.1 e64eb476d8f76c461d21278e018e194f.cloudfront.net (CloudFront)",
+  "x-amz-cf-id": "w810B-vvKYz4mNGgSpdCBbqR-ig_HC6zNdQzKHS9DthqAS9V38W62A=="
+}
